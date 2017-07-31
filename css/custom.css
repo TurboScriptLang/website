@@ -1675,6 +1675,11 @@ header {
     background-color: #ebecef;
 }
 
+.banner-wip {
+    background-color: #982322;
+    color: #fff;
+}
+
 .banner-update {
     background-color: #4db380;
     color: #fff;
